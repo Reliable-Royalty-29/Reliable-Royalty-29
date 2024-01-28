@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dheeman2912@gmail.com**
 
-- 📄 Know about my experiences [Dheeman_Resume_1706455155272.html](Dheeman_Resume_1706455155272.html)
+- 📄 Know about my experiences [My_Resume](Dheeman_Resume_1706455155272.html)
 
 - ⚡ Fun fact **I thing I am funny :)**
 

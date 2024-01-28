@@ -1,6 +1,8 @@
- <h1>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Dheeman Das</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
-<h3 align="center">A passionate DevOps Engineer from India. I work in MNC and am Always eager to learn and explore various prospects in this augmented technical world.</h3>
-<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+<h1 align="center">Hi , I'm Dheeman Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Cloud+Solution+Engineer+@bld.ai;Computer+Science+Student;Azure+DevOps+Expert;DevSecOps+ Cloud DevOps+enthusiastic;7X+Cloud+Certified;IAC+Expert;Always+learning+new+things; Keep+hustling"></a>
+</p>
+
 
 - 🌱 I’m currently learning **DevSecOps and Cloud DevOps**
 

@@ -9,7 +9,6 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
 - 🌱 I’m currently learning **DevSecOps and Cloud DevOps**
 
 - 📝 I regularly write articles on [https://medium.com/@dheemandas1997](https://medium.com/@dheemandas1997)
@@ -17,6 +16,10 @@
 - 💬 Ask me about **DevOps Tools**
 
 - 📫 How to reach me **dheeman2912@gmail.com**
+
+- 📄 Know about my experiences [Dheeman_Resume_1706455155272.html](Dheeman_Resume_1706455155272.html)
+
+- ⚡ Fun fact **I thing I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
- <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Dheeman Das</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+ <h1>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Dheeman Das</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <h3 align="center">A passionate DevOps Engineer from India. I work in MNC and am Always eager to learn and explore various prospects in this augmented technical world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 

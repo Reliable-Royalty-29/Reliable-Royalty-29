@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dheeman2912@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://github.com/Reliable-Royalty-29/Reliable-Royalty-29/blob/main/Dheeman_Resume.pdf)
+- 📄 Know about my experiences [My_Portfolio](https://reliable-royalty-29.github.io/portfolio/)
 
 - ⚡ Fun fact **I thing I am funny :)**
 

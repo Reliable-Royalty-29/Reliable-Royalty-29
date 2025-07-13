@@ -11,7 +11,7 @@
 <br><br>
 - 🌱 I’m currently learning **DevSecOps and Cloud DevOps**
 
-- 📝 I regularly write articles on [https://medium.com/@dheemandas1997](https://medium.com/@dheemandas1997)
+- 📝 I regularly write articles on [https://medium.com/@dheemandas2912](https://medium.com/@dheemandas1997)
 
 - 💬 Ask me about **DevOps Tools**
 
